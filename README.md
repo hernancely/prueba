@@ -44,7 +44,7 @@ _Que cosas necesitas para desplegar el proyecto_
 </p>
 </div>
 
-![Incrustar texto el Powerpoint](https://geekland.eu/wp-content/uploads/2018/11/incrustar-fuentes-microsoft-office-libreoffice.jpg "Esto es un tutorial de geekland")
+!](https://ibb.co/dP4LtSJl "")
 * Se hace el mismo procesos para el mostrar, editar,eliminar
 
 ## Ejecutando las pruebas ⚙️
